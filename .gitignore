@@ -1,0 +1,5 @@
+pdf edu/
+.DS_Store
+js/.DS_Store
+logs/*.log
+!logs/sample.log
