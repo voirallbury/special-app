@@ -2,4 +2,4 @@ pdf edu/
 .DS_Store
 js/.DS_Store
 logs/*.log
-
+config.json
